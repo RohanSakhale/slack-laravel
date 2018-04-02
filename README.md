@@ -1,4 +1,6 @@
 # Slack for Laravel
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fslack-laravel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fslack-laravel?ref=badge_shield)
+
 
 This package allows you to use [Slack for PHP](https://github.com/maknz/slack) easily and elegantly in your Laravel 4 or 5 app. Read the instructions below to get setup, and then head on over to [Slack for PHP](https://github.com/maknz/slack) for usage details. **Note: this package is no longer being actively maintained.**
 
@@ -82,3 +84,7 @@ Slack::to('@username')->send('psst!');
 
 Now head on over to [Slack for PHP](https://github.com/maknz/slack) for more examples, including attachments and message buttons.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRohanSakhale%2Fslack-laravel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRohanSakhale%2Fslack-laravel?ref=badge_large)
